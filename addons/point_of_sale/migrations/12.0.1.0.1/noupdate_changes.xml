@@ -13,6 +13,7 @@
     <field name="categ_id" ref="point_of_sale.product_category_pos"/>
     <field name="default_code">TIPS</field>
     <field name="available_in_pos" eval="True"/>
+    <field name="name">TIPS</field>
   </record>
   <record id="digest.digest_digest_default" model="digest.digest">
     <field name="kpi_pos_total">True</field>
