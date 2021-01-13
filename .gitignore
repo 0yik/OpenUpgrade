@@ -3,6 +3,7 @@ _build/
 
 # dotfiles
 .*
+!.github
 !.travis.yml
 !.gitignore
 !.mailmap
